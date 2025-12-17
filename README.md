@@ -1,2 +1,2 @@
 # TSD
-Release planned for mid-December 2025.
+Release planned for late-December 2025.
