@@ -2,8 +2,7 @@
 
 ### Dataset Access
 
-Due to the sensitive nature of the dataset and the presence of explicit and implicit hate speech, access is restricted.
-To request access to the TSD dataset, please contact us at **[almohaimeed.saad@gmail.com]**.
+Due to the sensitive nature of the dataset and the presence of explicit and implicit hate speech, the dataset is available upon request. To request access to the TSD dataset, please contact us at **[almohaimeed.saad@gmail.com]**.
 
 
 <br>
