@@ -10,7 +10,7 @@ To request access to the TSD dataset, please contact us at **[almohaimeed.saad@g
 <br>
 <br>
 ##Citation:
-These TSD dataset has been curated and published in the following paper:
+The TSD dataset has been curated and published in the following paper:
 
 ```bibtex
 @inproceedings{almohaimeed2025TSD,
